@@ -1,0 +1,14 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+.env
+.env.*
+
+# Client specific
+client/node_modules
+client/dist
+
+# Server specific
+server/node_modules
