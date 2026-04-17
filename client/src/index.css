@@ -50,11 +50,11 @@ body {
 }
 
 .btn-primary {
-  @apply px-6 py-3 bg-accent hover:bg-opacity-80 transition-all duration-300 rounded-lg font-bold text-white shadow-lg flex items-center justify-center gap-2;
+  @apply px-6 py-3 bg-accent hover:bg-accent/80 transition-all duration-300 rounded-lg font-bold text-white shadow-lg flex items-center justify-center gap-2;
 }
 
 .btn-outline {
-  @apply px-6 py-3 border border-white/20 hover:bg-white/5 transition-all duration-300 rounded-lg font-bold text-white flex items-center justify-center gap-2;
+  @apply px-6 py-3 border border-white/20 hover:bg-white/10 transition-all duration-300 rounded-lg font-bold text-white flex items-center justify-center gap-2;
 }
 
 /* XO Drawing Animations */
